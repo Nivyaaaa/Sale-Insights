@@ -54,6 +54,8 @@ This project focuses on analyzing sales data to uncover key insights related to 
 ## Conclusion
 This project provided valuable insights into sales trends and customer purchasing patterns, helping businesses make data-driven decisions. The visualizations created effectively summarize the data, making it easier to interpret and act upon.
 
+## Refer the PDF for the insights
+
 
 
 
